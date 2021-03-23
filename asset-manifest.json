@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/pabloabalam.github.io/static/css/main.7860c263.chunk.css",
+    "main.js": "/pabloabalam.github.io/static/js/main.0984abc5.chunk.js",
+    "main.js.map": "/pabloabalam.github.io/static/js/main.0984abc5.chunk.js.map",
+    "runtime-main.js": "/pabloabalam.github.io/static/js/runtime-main.8d84babe.js",
+    "runtime-main.js.map": "/pabloabalam.github.io/static/js/runtime-main.8d84babe.js.map",
+    "static/css/2.b7964c56.chunk.css": "/pabloabalam.github.io/static/css/2.b7964c56.chunk.css",
+    "static/js/2.fc6a5ad1.chunk.js": "/pabloabalam.github.io/static/js/2.fc6a5ad1.chunk.js",
+    "static/js/2.fc6a5ad1.chunk.js.map": "/pabloabalam.github.io/static/js/2.fc6a5ad1.chunk.js.map",
+    "index.html": "/pabloabalam.github.io/index.html",
+    "static/css/2.b7964c56.chunk.css.map": "/pabloabalam.github.io/static/css/2.b7964c56.chunk.css.map",
+    "static/css/main.7860c263.chunk.css.map": "/pabloabalam.github.io/static/css/main.7860c263.chunk.css.map",
+    "static/js/2.fc6a5ad1.chunk.js.LICENSE.txt": "/pabloabalam.github.io/static/js/2.fc6a5ad1.chunk.js.LICENSE.txt",
+    "static/media/Info-1.8a99206c.png": "/pabloabalam.github.io/static/media/Info-1.8a99206c.png",
+    "static/media/Info-2.9076832a.png": "/pabloabalam.github.io/static/media/Info-2.9076832a.png",
+    "static/media/Info-3.b5cf2322.png": "/pabloabalam.github.io/static/media/Info-3.b5cf2322.png",
+    "static/media/Info-4.156b13c3.png": "/pabloabalam.github.io/static/media/Info-4.156b13c3.png",
+    "static/media/app-store.838d2617.svg": "/pabloabalam.github.io/static/media/app-store.838d2617.svg",
+    "static/media/home-1.9b248948.png": "/pabloabalam.github.io/static/media/home-1.9b248948.png",
+    "static/media/home-2.3f8a4652.png": "/pabloabalam.github.io/static/media/home-2.3f8a4652.png",
+    "static/media/home-3.d48e6240.png": "/pabloabalam.github.io/static/media/home-3.d48e6240.png",
+    "static/media/home-4.4be20e2c.png": "/pabloabalam.github.io/static/media/home-4.4be20e2c.png",
+    "static/media/logo-color.2669aa3e.png": "/pabloabalam.github.io/static/media/logo-color.2669aa3e.png",
+    "static/media/logo.284ecb87.png": "/pabloabalam.github.io/static/media/logo.284ecb87.png",
+    "static/media/play-store.5d9a073b.png": "/pabloabalam.github.io/static/media/play-store.5d9a073b.png",
+    "static/media/pm-1.5770e26e.png": "/pabloabalam.github.io/static/media/pm-1.5770e26e.png",
+    "static/media/pm-2.124d9fd1.svg": "/pabloabalam.github.io/static/media/pm-2.124d9fd1.svg",
+    "static/media/slick-theme.css": "/pabloabalam.github.io/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d84babe.js",
+    "static/css/2.b7964c56.chunk.css",
+    "static/js/2.fc6a5ad1.chunk.js",
+    "static/css/main.7860c263.chunk.css",
+    "static/js/main.0984abc5.chunk.js"
+  ]
+}
